@@ -1,0 +1,5 @@
+chromadb
+pypdf
+anthropic
+streamlit
+ollama
